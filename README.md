@@ -1,4 +1,4 @@
-<img style="float:left;text-align: center" src="./assets/1_.jpg" width="310.5" height="672"><img style="float:right;text-align:center" src="./assets/4_.jpg" width="310.5" height="672">
+<img src="./assets/1_.jpg" width="310.5" height="672">                                                                                                            <img src="./assets/4_.jpg" width="310.5" height="672">
 
 <img src="./assets/3_.jpg" width="310.5" height="672"><img src="./assets/2_.jpg" width="310.5" height="672">
 
