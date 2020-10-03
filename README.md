@@ -1,3 +1,8 @@
+<img width="310.5" height="672"><img src="./assets/1_.jpg" width="310.5" height="672"><img width="310.5" height="672">
+
+<img src="./assets/4_.jpg" width="310.5" height="672"><img src="./assets/3_.jpg" width="310.5" height="672"><img src="./assets/2_.jpg" width="310.5" height="672">
+
+
 # BMI Calculator App
 
 BMI Calculator is a an IOS App that calculates your Body Mass Index (BMI), and it gives you feedback on it.
@@ -14,5 +19,3 @@ BMI Calculator is a an IOS App that calculates your Body Mass Index (BMI), and i
 Pull requests are welcome. For any changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-![](/assets/1_.jpg)
