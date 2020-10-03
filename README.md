@@ -15,4 +15,4 @@ Pull requests are welcome. For any changes, please open an issue first to discus
 
 Please make sure to update tests as appropriate.
 
-![GitHub Logo](/assets/1_.png)
+![](/assets/1_.jpg)
